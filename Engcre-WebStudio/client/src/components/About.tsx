@@ -10,7 +10,7 @@ export function About() {
             A <strong>EngCre (Engenharia Criativa)</strong> nasceu da fusão entre a precisão da engenharia de software e a liberdade do design criativo. 
           </p>
           <p className="text-gray-400 leading-relaxed mb-8">
-            Fundada por Bruno, nossa missão é elevar o padrão da web brasileira. Não criamos apenas sites; construímos ativos digitais que geram valor, atraem leads e posicionam marcas como líderes em seus segmentos.
+            Nossa missão é elevar o padrão da web brasileira. Não criamos apenas sites; construímos ativos digitais que geram valor, atraem leads e posicionam marcas como líderes em seus segmentos.
           </p>
           
           <div className="space-y-4">
@@ -38,12 +38,16 @@ export function About() {
                 <div className="text-gray-400">Comprometimento com Prazos</div>
               </div>
               <div>
-                <div className="text-4xl font-bold text-primary mb-2">TOP 3</div>
+                <div className="text-4xl font-bold text-primary mb-2">TOP 3 com o melhor do SEO</div>
                 <div className="text-gray-400">Colocamos clientes no topo das buscas</div>
               </div>
               <div>
-                <div className="text-4xl font-bold text-primary mb-2">24/7</div>
+                <div className="text-4xl font-bold text-primary mb-2">Suporte 24 horas</div>
                 <div className="text-gray-400">Monitoramento de Sistemas</div>
+              </div>
+                <div>
+                <div className="text-4xl font-bold text-primary mb-2">Rapido e responsivo</div>
+                <div className="text-gray-400">Sites mais velozes, para todos os dispositivos</div>
               </div>
             </div>
           </div>
