@@ -27,6 +27,7 @@ export function Contact() {
                   <h3 className="text-lg font-bold text-white mb-1">Email</h3>
                   <p className="text-gray-400">contato@engcre.com.br</p>
                   <p className="text-gray-400">projetos@engcre.com.br</p>
+                  <p className="text-gray-400">engcree@gmail.com</p>
                 </div>
               </CardContent>
             </Card>
@@ -38,8 +39,8 @@ export function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-bold text-white mb-1">WhatsApp</h3>
-                  <p className="text-gray-400">(11) 99999-9999</p>
-                  <p className="text-sm text-gray-500 mt-1">Atendimento Seg-Sex, 9h às 18h</p>
+                  <p className="text-gray-400">(16) 99178-1426</p>
+                  <p className="text-sm text-gray-500 mt-1">Atendimento 24h em todos os dias da semana</p>
                 </div>
               </CardContent>
             </Card>
